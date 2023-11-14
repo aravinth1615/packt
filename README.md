@@ -2,11 +2,12 @@
 # packt!
 
 Pre-Requisites
-1 - Composer Install
-2 - Xampp(PHP 8.0>)
-3 - NodeJs
+----------------------------
+1. Composer Install
+2. Xampp(PHP 8.0>)
+3. NodeJs
 
-Project placed location Xampp/htdocs
+Kinldy project placed location is xampp/htdocs
 
 ReactJs - FrontEnd Installation Steps
 ------------------------------------------
@@ -23,7 +24,7 @@ Laravel - Backend Installation Steps
 5. Run php artisan serve use this port (http://localhost:8000/)
 
 Book List
-[home](https://github.com/aravinth1615/packt/assets/47536817/24436da8-2046-4916-bb50-de051c9b1bcd)
+![home](https://github.com/aravinth1615/packt/assets/47536817/24436da8-2046-4916-bb50-de051c9b1bcd)
 
 Book Detail
 ![bookdetail](https://github.com/aravinth1615/packt/assets/47536817/d8a25b5e-25d3-4a7e-ad98-4c9971c84cea)
