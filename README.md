@@ -18,7 +18,7 @@ ReactJs - FrontEnd Installation Steps
 Laravel - Backend Installation Steps
 ---------------------------------------
 1. After download backend project
-2. .env.example rename to .env
+2. .env.example this file and rename to .env
 3. Composer update
 4. Run command php artisan migrate
 5. Run php artisan serve use this port (http://localhost:8000/)
